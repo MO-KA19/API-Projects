@@ -92,6 +92,7 @@ button:hover {
 
     .btn {
         position: relative;
+        left: 25px;
     }
 
     #divider {
