@@ -1,5 +1,5 @@
 # Frontend Mentor - Advice generator app
-## Live Demo: https://classy-sawine-1f0aa6.netlify.app/
+## Live Demo: https://steady-tanuki-3b25c1.netlify.app
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
